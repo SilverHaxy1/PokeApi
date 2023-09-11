@@ -5,11 +5,4 @@
 4.Ra:1945514<br/>
 5.Completar uma Api de Pokemon<br/>
 
->teste
-```java
-public class main {
-    public static main(string... args) {
-        system.out.println("Hello world");
-    }
-}
-```
+
