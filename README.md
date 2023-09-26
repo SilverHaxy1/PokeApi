@@ -13,3 +13,5 @@
 ## Listando e utilizando fetch para receber as informações de "https://pokeapi.co/api/v2/pokemon/?limit=151&offset=0"
 
 
+
+
